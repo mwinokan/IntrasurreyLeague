@@ -18,6 +18,15 @@
 
 Reverse fixtures after Christmas break
 
+## League Table
+
+|Team|#Played|#Wins|#Draws|#Lose|G.D.|Points|
+|---|---|---|---|---|---|---|
+|All Stars|   |   |   |   |   |   |
+|Delta Force|   |   |   |   |   |   |
+|Power Rangers|   |   |   |   |   |   |
+|Wolf Pack|   |   |   |   |   |   |
+
 ## Statistics
 
 No games have been played yet
