@@ -22,10 +22,10 @@ Reverse fixtures after Christmas break
 
 |Team|#Played|#Wins|#Draws|#Lose|G.D.|Points|
 |---|---|---|---|---|---|---|
-|All Stars|   |   |   |   |   |   |
-|Delta Force|   |   |   |   |   |   |
-|Power Rangers|   |   |   |   |   |   |
-|Wolf Pack|   |   |   |   |   |   |
+|All Stars		| 0 | 0 | 0 | 0 | 0 | 0 |
+|Delta Force	| 0 | 0 | 0 | 0 | 0 | 0 |
+|Power Rangers	| 0 | 0 | 0 | 0 | 0 | 0 |
+|Wolf Pack		| 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Statistics
 
