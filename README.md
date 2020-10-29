@@ -1,6 +1,10 @@
 # IntrasurreyLeague
 
-- Team Squads [IMAGE](Teams.png)
+Quick links:
+
+- [Squads](teams.md)
+- [Table](League-Table)
+- [Player Stats](Statistics)
 
 ## Upcoming Fixtures
 
